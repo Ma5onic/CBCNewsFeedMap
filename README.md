@@ -2,3 +2,11 @@ CBCNewsFeedMap
 ==============
 
 A JSAPI map application which plots CBC News Feeds on a global web map and displays the stories in a way!
+
+We took a number of CBC news feeds http://www.cbc.ca/rss/
+
+We then used a site that georeferences them by finding the first referenced name to a location http://www.geonames.org/
+
+The newly created GeoRSS feeds are then plotted on an ArcGIS Online web map
+
+
