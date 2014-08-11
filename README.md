@@ -9,4 +9,5 @@ We then used a site that georeferences them by finding the first referenced name
 
 The newly created GeoRSS feeds are then plotted on an ArcGIS Online web map
 
-
+Click on the link below to view it live
+http://trainingportal.esri.ca/cbc/
